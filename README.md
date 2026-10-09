@@ -233,4 +233,4 @@ This repository serves as the official landing page for LEGO Digital Designer. T
 **Get the most recent version of LEGO Digital Designer today!**
 
 ---
-**Last updated:** 2026-10-08 21:55:56 UTC
+**Last updated:** 2026-10-09 01:56:46 UTC
